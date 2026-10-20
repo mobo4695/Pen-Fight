@@ -1,0 +1,4 @@
+<resources>
+    <!-- Plain parent theme; Compose draws the whole game on top. -->
+    <style name="Theme.PenFight" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
